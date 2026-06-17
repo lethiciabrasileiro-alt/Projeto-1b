@@ -16,3 +16,11 @@ body{
      background-color: rgb(255, 218, 224);
      padding: 30px;
 }
+
+main{
+     background-color: rgb(187, 17, 45);
+     color: red;
+     max-width: 800px;
+     padding: 16px;
+}
+
