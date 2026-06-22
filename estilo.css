@@ -22,6 +22,7 @@ main{
      color: rgb(255, 255, 255);
      max-width: 800px;
      padding: 16px;
+     margin: o autor;
 }
 article{
      display: flex;
@@ -30,6 +31,6 @@ img{
      width: 80px;
      height: 80px;
 }
-texto-post{
+.texto-post{
      margin-left: 40px;
 }
