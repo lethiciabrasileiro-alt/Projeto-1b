@@ -10,6 +10,9 @@ function botaoClicado(){
     let texto = document.querySelector("span")
     if(curtiu == false){
         texto.textContent++;
+    }else{
+        texto. textContent--;
+        curtiu = false 
     }
  }
 })
